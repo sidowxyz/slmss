@@ -1,0 +1,120 @@
+[
+  {
+    "id": "PLT-001-2024",
+    "price": 23898.00,
+    "location": "Hodan",
+    "type": "Villa House",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-002-2024",
+    "price": 25000.00,
+    "location": "Waberi",
+    "type": "Apartment",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-003-2024",
+    "price": 22000.00,
+    "location": "Hammar Weyne",
+    "type": "Villa House",
+    "status": "Sold",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-004-2024",
+    "price": 26500.00,
+    "location": "Hodan",
+    "type": "Land",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-005-2024",
+    "price": 24000.00,
+    "location": "Waberi",
+    "type": "Villa House",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-006-2024",
+    "price": 23000.00,
+    "location": "Hodan",
+    "type": "Apartment",
+    "status": "Sold",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-007-2024",
+    "price": 25500.00,
+    "location": "Hammar Weyne",
+    "type": "Villa House",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-008-2024",
+    "price": 24500.00,
+    "location": "Waberi",
+    "type": "Land",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  },
+  {
+    "id": "PLT-009-2024",
+    "price": 26000.00,
+    "location": "Hodan",
+    "type": "Villa House",
+    "status": "For Sale",
+    "images": [
+      "https://agentrealestateschools.com/wp-content/uploads/2021/11/real-estate-property.jpg",
+      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://media.istockphoto.com/id/2155899949/photo/large-pool-in-front-of-a-white-house-in-encino-california.jpg?s=612x612&w=0&k=20&c=KXG0Xli4svJSE3OdcXckQYQzZm-1-fZwoV28Z9zjMy0=",
+      "https://prod.rockmedialibrary.com/api/public/content/ff061825fa8e44bf8108de5c786c0062?v=4c4f7c7a"
+    ]
+  }
+]
+
